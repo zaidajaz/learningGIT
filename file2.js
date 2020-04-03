@@ -1,1 +1,1 @@
-var var2 = 30; //changed in branch dev  
+var var2 = 30; //changed in branch dev  and  should not be in master
