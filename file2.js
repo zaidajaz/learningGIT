@@ -1,1 +1,1 @@
-var var2 = 30; //changed in branch dev  and  should not be in master
+var var2 = 40; //changes made in feature/s1
